@@ -83,8 +83,8 @@ def menu():
     print '\x1b[1;94m--------------------------------------------------'
     
     print '\x1b[1;91mAUTHOR  : RINKU'
-    print '\x1b[1;91mFACEBOOK : Your.Next.Boyfriend.90
-    print '\x1b[1;91mGITHUB  : github.com/CYB3R-404
+    print '\x1b[1;91mFACEBOOK : Your.Next.Boyfriend.90'
+    print '\x1b[1;91mGITHUB  : github.com/CYB3R-404'
     print ''
     print 50* '-'
     print '\x1b[1;94m--------------------------------------------------'
